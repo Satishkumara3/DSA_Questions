@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
@@ -60,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
