@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
@@ -44,14 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
