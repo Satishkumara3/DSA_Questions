@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satishkumara3/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -69,12 +71,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
