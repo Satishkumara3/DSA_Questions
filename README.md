@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satishkumara3/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -106,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Satishkumara3/DSA_Questions/tree/master/0148-sort-list) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
