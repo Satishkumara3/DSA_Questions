@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
