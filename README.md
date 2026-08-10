@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Satishkumara3/DSA_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Satishkumara3/DSA_Questions/tree/master/0509-fibonacci-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Satishkumara3/DSA_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Satishkumara3/DSA_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/0213-house-robber-ii) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Satishkumara3/DSA_Questions/tree/master/1406-stone-game-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Satishkumara3/DSA_Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
