@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Satishkumara3/DSA_Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Prefix Sum
