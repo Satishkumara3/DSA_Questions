@@ -158,4 +158,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Satishkumara3/DSA_Questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satishkumara3/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satishkumara3/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satishkumara3/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Satishkumara3/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
