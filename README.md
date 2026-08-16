@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Satishkumara3/DSA_Questions/tree/master/0076-minimum-window-substring) |
+| [0560-subarray-sum-equals-k](https://github.com/Satishkumara3/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Satishkumara3/DSA_Questions/tree/master/3731-find-missing-elements) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Satishkumara3/DSA_Questions/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Satishkumara3/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Satishkumara3/DSA_Questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satishkumara3/DSA_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Satishkumara3/DSA_Questions/tree/master/0877-stone-game) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Satishkumara3/DSA_Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Rolling Hash
 |  |
 | ------- |
