@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Satishkumara3/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Satishkumara3/DSA_Questions/tree/master/3731-find-missing-elements) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satishkumara3/DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Satishkumara3/DSA_Questions/tree/master/0076-minimum-window-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Satishkumara3/DSA_Questions/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satishkumara3/DSA_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Satishkumara3/DSA_Questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
