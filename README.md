@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satishkumara3/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satishkumara3/DSA_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satishkumara3/DSA_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satishkumara3/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Satishkumara3/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Satishkumara3/DSA_Questions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Satishkumara3/DSA_Questions/tree/master/0198-house-robber) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Satishkumara3/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0148-sort-list](https://github.com/Satishkumara3/DSA_Questions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
